@@ -1,8 +1,8 @@
 cask "clinotify" do
-  version "0.1.0"
-  sha256 "27d7b23b7390b747033b3b8af95fce9cb0feea4271550fd7c08be928fd84a587"
+  version "0.1.1"
+  sha256 "a83d0242a1d41ffde30db9eb2bdf9eb1ecaf75cc481769a00162fd174d1a1c33"
 
-  url "https://github.com/ZichengWangdrzz/clinotify/releases/download/v0.1.0/CLINotify.dmg"
+  url "https://github.com/ZichengWangdrzz/clinotify/releases/download/v0.1.1/CLINotify.dmg"
   name "CLINotify"
   desc "Menu bar alerts for Claude Code and Codex CLI sessions"
   homepage "https://github.com/ZichengWangdrzz/clinotify"
